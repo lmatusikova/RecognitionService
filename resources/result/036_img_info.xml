@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<video xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="objectDetection.xsd">
+    <info>
+        <file type="file">result/files/036.png</file>
+        <hash type="md5">41adea4078bb48e73b24992c9972b6c5</hash>
+        <id>oVuIBvrNE6</id>
+        <name>result/files/036.png</name>
+        <description>Nacht- und Tageserkennung des Bildes - HTWK Leipzig, Sonja Mauersberger, Tobias Hahn</description>
+        <frameCount>1</frameCount>
+    </info>
+    <frames>
+        <frame index="1">
+            <info>
+                <day confidence="0.2552797104736828"/>
+                <night confidence="0.10406919665243829"/>
+                <inside confidence="0.25986012610672093"/>
+                <bad-weather confidence="0.5531904032877107"/>
+            </info>
+        </frame>
+    </frames>
+</video>
